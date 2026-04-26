@@ -1,6 +1,6 @@
-# 📊 Sanremo Data Analysis – Looker Studio Report
+# Sanremo Data Analysis – Looker Studio Report
 
-## 🎤 Descrizione
+## Descrizione
 Questo progetto analizza i dati del Festival di Sanremo dal 1951 al 2023, con focus su partecipazioni e vittorie degli artisti.
 
 ## 🎯 Obiettivo
