@@ -16,6 +16,6 @@ Dall’analisi emergono alcuni aspetti chiave:
 - solo una minoranza di artisti partecipa al Festival più volte
 - il numero di vincitori è significativamente inferiore rispetto al totale dei partecipanti
 - la frequenza di partecipazione non garantisce il successo
-- 
+  
 ## 🔗 Link al report
 👉 https://datastudio.google.com/reporting/c3c38a42-797f-4779-a867-2ee844d79eff
